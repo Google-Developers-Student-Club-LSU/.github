@@ -14,12 +14,17 @@ Fostering student empowerment to leverage technology for creating impactful solu
 This will the central place of all the coding associated with GDSC workshops.
 
 # 2024-25 Executive Board
-- President: Hudson
-- Vice President: Madi
-- Secretary: Trenton
-- Treasurer: Jerricks
-- Outreach Chair: Maureen
-- Webmaster: Malik
-- Multimedia: Nora
-- Public Relations:  TBD
-- Graphic Designer: TBD
+
+[//]: <> (I just formatted these into a table cause this is just a proof-of-concept. Y'all could decide to get fancy w/ it and try using GitHub's HTML tools in markdown rendering to do better formatting.)
+[//]: <> (I used the following tool to render the profiles. There's docs to do different themes to personalize each card. https://github.com/FajarKim/github-readme-profile )
+
+| President  | Vice-President |
+| :-: | :-: |
+| [![President](https://gh-readme-profile.vercel.app/api?username=hudzum&theme=github_dark)](https://github.com/hudzum)  | [![Vice-President](https://gh-readme-profile.vercel.app/api?username=maureensanchez99&theme=github_dark)](https://github.com/maureensanchez99)  |
+| Secretary | Treasurer | 
+| [![Secretary](https://gh-readme-profile.vercel.app/api?username=maureensanchez99&theme=github_dark)](https://github.com/maureensanchez99) | [![Treasurer](https://gh-readme-profile.vercel.app/api?username=maureensanchez99&theme=github_dark)](https://github.com/maureensanchez99) | 
+| Outreach Chair | Webmaster | 
+| [![Outreach-Chair](https://gh-readme-profile.vercel.app/api?username=maureensanchez99&theme=github_dark)](https://github.com/maureensanchez99) | [![Webmaster](https://gh-readme-profile.vercel.app/api?username=maureensanchez99&theme=github_dark)](https://github.com/maureensanchez99) | 
+| Public Relations | Graphic Designer | 
+| [![Public-Relations](https://gh-readme-profile.vercel.app/api?username=ny0o0om&theme=github_dark)](https://github.com/ny0o0om) | [![Graphic Designer](https://gh-readme-profile.vercel.app/api?username=maureensanchez99&theme=github_dark)](https://github.com/maureensanchez99) | 
+
