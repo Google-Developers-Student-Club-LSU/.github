@@ -13,13 +13,12 @@ Fostering student empowerment to leverage technology for creating impactful solu
 ## Codespace
 This will the central place of all the coding associated with GDSC workshops.
 
-# 2024-25 Executive Board
-- President: Hudson
-- Vice President: Madi
+# 2025-26 Executive Board
+- President: Malik
+- Vice President: Hudson
 - Secretary: Trenton
-- Treasurer: Jerricks
-- Outreach Chair: Maureen
+- Treasurer: Jerrick
 - Webmaster: Malik
 - Multimedia: Nora
-- Public Relations:  TBD
-- Graphic Designer: TBD
+- Public Relations: Kasen
+- Graphic Designer: Lily
