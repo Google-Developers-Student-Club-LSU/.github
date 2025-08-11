@@ -18,7 +18,7 @@ This will the central place of all the coding associated with GDSC workshops.
 - Vice President: Hudson
 - Secretary: Trenton
 - Treasurer: Jerrick
-- Webmaster: Malik
-- Multimedia: Nora
-- Public Relations: Kasen
+- Webmaster: Dina
+- Multimedia: Thomas
+- Public Relations: Leke
 - Graphic Designer: Lily
